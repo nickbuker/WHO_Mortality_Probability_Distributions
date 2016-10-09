@@ -1,7 +1,7 @@
 # Fitting Distributions to WHO Mortality Data
 
-<img src="images/all_dist.png" width="500">
-<img src="images/best_fit.png" width="500">
+<img src="images/all_dist.png" width="650">
+<img src="images/best_fit.png" width="650">
 
 All probability distributions from SciPy Stats were fit to World Health Organization global mortality data to find best fit.  Python code can be found in the Jupyter Notebook in the src folder.
 <br>
